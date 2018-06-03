@@ -24,7 +24,7 @@
         do{
             system("cls");
             printf("\t -------------------------------------------------------\n");
-            printf("\t|                 Alta de peliculas                  |\n");
+            printf("\t|                 Alta de peliculas                     |\n");
             printf("\t -------------------------------------------------------\n");
             printf("\n\n\n\n\t\tid       : %d",id);
             if (flagTitulo==0){
